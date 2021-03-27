@@ -1,11 +1,14 @@
 # Github   
 
 ## Instalation   
-- ``   
+- `sudo apt-get install git`   
 
 ## Setup   
-- ``   
-- ``   
+- Before commiting some files for the first time run the following commands to set your identity:   
+  - `git config --global user.name "Name Here"`   
+  - `git config --global user.email "my@email.tldr"`   
+- Note:  
+  - The provided email address will be publicly visible, alternatively you can use: `github-username-here@users.noreply.github.com`   
 
 ## Init a repository   
 ### Locally   
